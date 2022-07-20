@@ -1,4 +1,4 @@
-### Hi there / Holaaa 👋
+### Hi there / Holaaa / Coucouu / Hallo 👋
 
 - 🔭 I’m currently working on a tesla clone.
 - 🌱 I’m currently learning React.
